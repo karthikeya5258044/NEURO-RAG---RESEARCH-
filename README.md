@@ -1,5 +1,5 @@
 🧠 NeuroRAG — Explainable EEG-Based Stress Detection via Retrieval-Augmented Generation
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20677189.svg)](https://doi.org/10.5281/zenodo.20677189)
 
 The first system combining EEG biomarker embeddings, clinical narrative generation, and RAG-based LLM reasoning for explainable stress assessment.
 
